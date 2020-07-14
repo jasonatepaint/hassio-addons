@@ -1,6 +1,6 @@
 {
   "name": "Remote Backup",
-  "version": "4.2.6",
+  "version": "latest",
   "slug": "remote_backup",
   "description": "Exploit snapshots and SCP/rsync to create remote backups to specified server",
   "url": "https://github.com/pflaugh/hassio-addons/blob/master/README.md",
